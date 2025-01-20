@@ -1,4 +1,4 @@
-# WorkingWithExpress
+# Working with Express
 
 Description: This project allows users to open an Express.js-enabled HTTP server locally, access it from the website: http://localhost:3000, and, through the website, communicate to the server to execute a number of different operations. The server is set up using Node.js and Express.js frameworks, along with their associated dependencies. 
 
